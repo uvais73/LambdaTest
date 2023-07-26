@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[<div class="test-message">&emsp;Parent window handle (Lambdatest Home page) : CDwindow-448360D068D426DF59A5A6F841D0BFC3</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div class="test-message">&emsp;Child window handle (Integration page) : CDwindow-D24ABAA1A9FEAE661516ABB98D5E5DE8</div>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-07-26T17:24:17 IST" name="Lambda Test Automation" finished-at="2023-07-26T17:25:00 IST" duration-ms="43063">
+    <groups>
+    </groups>
+    <test started-at="2023-07-26T17:24:17 IST" name="Sample Execution" finished-at="2023-07-26T17:25:00 IST" duration-ms="43063">
+      <class name="assignment.Task1">
+        <test-method signature="test001(java.lang.String)[pri:0, instance:assignment.Task1@71238fc2]" started-at="2023-07-26T17:24:17 IST" name="test001" description="Lambdatest Automation Assignment" data-provider="parallelTestDataProvider" finished-at="2023-07-26T17:25:00 IST" duration-ms="43016" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome&86.0&windows 10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<div class="test-message">&emsp;Parent window handle (Lambdatest Home page) : CDwindow-448360D068D426DF59A5A6F841D0BFC3</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div class="test-message">&emsp;Child window handle (Integration page) : CDwindow-D24ABAA1A9FEAE661516ABB98D5E5DE8</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test001 -->
+      </class> <!-- assignment.Task1 -->
+    </test> <!-- Sample Execution -->
+  </suite> <!-- Lambda Test Automation -->
+</testng-results>
